@@ -1,9 +1,9 @@
 # Gembe.cn
 
 
-China's first online platform to trade amber
+[Gembe.cn](https://gembe.cn) - China's first amber trading platform.
 
-All updates on latest arrivals are available in our official Wechat account, and you can purchase any item in our [Wechat mini-app](weixin://dl/business/?t=k7z5il4W3wm) or [Alipay mini-app](alipays://platformapi/startapp?appId=2021002128667298). Don't waste time shopping various suppliers - thousands of stones are available in our app
+All updates on latest arrivals are available in our official Wechat account, and you can purchase any item in our [Wechat mini-app](https://gembe.cn/app) or [Alipay mini-app](https://gembe.cn/app). Don't waste time shopping various suppliers - thousands of stones are available in our app
 
 **Buying amber has never been easier.**
 
